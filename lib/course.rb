@@ -8,3 +8,5 @@ class Course
     @@all << self
 end
 
+
+
