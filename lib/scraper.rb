@@ -35,4 +35,4 @@ doc.css(".post").first.css("h2")
   
 
 
-
+end
