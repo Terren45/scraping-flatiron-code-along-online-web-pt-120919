@@ -32,7 +32,6 @@ doc.css(".post").first.css("h2")
         puts "  Description: #{course.description}"
       end
     end
-  end
   
 
 
