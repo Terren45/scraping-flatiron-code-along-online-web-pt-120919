@@ -16,7 +16,7 @@ end
 
 Scraper.new.get_page
 
-
+doc.css(".post").first.css("h2")
   
   def print_courses
     self.make_courses
