@@ -8,6 +8,7 @@ class Scraper
   
   def get_page
     
+    
   end
   
   def print_courses
